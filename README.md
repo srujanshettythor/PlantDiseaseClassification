@@ -1,5 +1,8 @@
 # Potato Disease Classification
 
+![Uploading image.png…]()
+
+
 ## Setup for Python:
 
 1. Install Python ([Setup instructions](https://wiki.python.org/moin/BeginnersGuide))
